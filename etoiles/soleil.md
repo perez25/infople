@@ -11,3 +11,6 @@ Image trouvée sur [Wikipedia](https://commons.wikimedia.org/wiki/File:Solar_pro
 - Diamètre : 1 392 684 km
 rotation : pas de rotation
 
+## Temperature
+
+Vraiment très chaud, attention de ne pas trop s'approcher

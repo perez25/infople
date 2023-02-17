@@ -17,3 +17,7 @@ Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur
   - periode de rotation : gauche
   
 - Symbole : &#x263F;
+
+## temperature 
+
+plutot froid
