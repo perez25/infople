@@ -9,4 +9,5 @@ Image trouvée sur [Wikipedia](https://commons.wikimedia.org/wiki/File:Solar_pro
 
 - Masse : 1,9891 × 10<sup>30</sup> kg
 - Diamètre : 1 392 684 km
+rotation : pas de rotation
 
